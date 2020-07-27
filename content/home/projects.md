@@ -21,3 +21,5 @@ I am currently investigating factors that predict the development of reading pro
 ![Plot](/img/results_pic.png)
 
 <br>
+
+[See some older projects here]({{< ref "/post/_index.md" >}})

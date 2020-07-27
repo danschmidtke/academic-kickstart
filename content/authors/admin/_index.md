@@ -78,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoctoral fellow in the Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL) at McMaster Univeristy. I research the development of reading skill in second language learners at McMaster University. 
+I am a postdoctoral fellow in the Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL) at McMaster Univeristy. My current research investigates the development of literacy in ESL students. I collect longitudinal data including eye movements during reading, standardized cognitive-linguistic assessments, large-scale experimental psycholinguistic studies and measures of academic attainment.
