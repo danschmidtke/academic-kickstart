@@ -46,6 +46,10 @@ url_poster = ""
 url_source = ""
 
 [[links]]
+name = "Journal link"
+url = "https://link.springer.com/article/10.3758/s13428-020-01397-1"
+
+[[links]]
 name = "Database link"
 url = "https://osf.io/82p6x/"
 
