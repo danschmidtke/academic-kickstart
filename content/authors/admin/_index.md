@@ -21,7 +21,7 @@ organizations:
 
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include psycholinguistics, corpus linguistics and linguistic theory.
 
 interests:
 - Psycholinguistics
@@ -78,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral fellow in the Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL) at McMaster Univeristy. My current research investigates the development of literacy in ESL students. I collect longitudinal data including eye movements during reading, standardized cognitive-linguistic assessments, large-scale experimental psycholinguistic studies and measures of academic attainment.
+I am a postdoctoral fellow in the Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL) at McMaster Univeristy. My current research investigates the development of literacy in ESL students. I collect longitudinal data, including eye movements during reading, standardized cognitive-linguistic assessments, large-scale experimental psycholinguistic studies and measures of academic attainment.
