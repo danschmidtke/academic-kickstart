@@ -25,6 +25,7 @@ bio: My research interests include psycholinguistics, corpus linguistics and lin
 
 interests:
 - Psycholinguistics
+- Eye-movements during reading
 - Reading acquisition
 - Individual differences
 - Quantitative linguistics
