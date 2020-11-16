@@ -78,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral fellow in the Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL) at McMaster Univeristy. My current research investigates the predictors of reading development among pre-university ESL students. I collect and analyze longitudinal data, including eye movements during reading, cognitive-linguistic assessments, large-scale experimental psycholinguistic studies and measures of academic attainment. 
+I am a postdoctoral fellow in the Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL) at McMaster University. My current research investigates the predictors of reading development among pre-university ESL students. I collect and analyze longitudinal data, including eye movements during reading, cognitive-linguistic assessments, large-scale experimental psycholinguistic studies and measures of academic attainment. 
