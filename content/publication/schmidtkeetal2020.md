@@ -3,7 +3,7 @@ title = "CompLex: An eye-movement database of compound word reading in English"
 date = "2020-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Schmidtke", "Julie A. Van Dyke", "Victor Kuperman"]
+authors = ["Daniel Schmidtke, Julie A. Van Dyke, Victor Kuperman"]
 
 # Publication type.
 # Legend:

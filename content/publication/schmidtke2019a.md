@@ -3,7 +3,7 @@ title = "A paradox of apparent brainless behavior: The time-course of compound w
 date = "2019-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Schmidtke",  "Victor Kuperman"]
+authors = ["Daniel Schmidtke, Victor Kuperman"]
 
 # Publication type.
 # Legend:

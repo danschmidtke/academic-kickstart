@@ -3,7 +3,7 @@ title = "Individual variability in the semantic processing of English compound w
 date = "2018-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Schmidtke", "Julie A. Van Dyke", "Victor Kuperman"]
+authors = ["Daniel Schmidtke, Julie A. Van Dyke, Victor Kuperman"]
 
 # Publication type.
 # Legend:

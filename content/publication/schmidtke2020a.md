@@ -3,7 +3,7 @@ title = "Psycholinguistic Methods and Tasks in Morphology"
 date = "2020-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Schmidtke", "Victor Kuperman"]
+authors = ["Daniel Schmidtke, Victor Kuperman"]
 
 # Publication type.
 # Legend:

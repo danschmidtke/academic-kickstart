@@ -14,10 +14,12 @@ role: Postdoctoral fellow
 
 # Organizations/Affiliations
 organizations:
-- name: The Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)
-  url: "https://arieal.mcmaster.ca/"
-- name: McMaster English Language Development (MELD) Office
-  url: "https://meld.humanities.mcmaster.ca/diploma/"
+- name: McMaster University
+
+#- name: The Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)
+#  url: "https://arieal.mcmaster.ca/"
+#- name: McMaster English Language Development (MELD) Office
+#  url: "https://meld.humanities.mcmaster.ca/diploma/"
 
 
 # Short bio (displayed in user profile at end of posts)
@@ -79,4 +81,8 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral fellow in the Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL) at McMaster University. My current research investigates the predictors of reading development among pre-university ESL students. I collect and analyze longitudinal data, including eye movements during reading, cognitive-linguistic assessments, large-scale experimental psycholinguistic studies and measures of academic attainment. 
+I am a postdoctoral fellow in the [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)]({{< ref "https://arieal.mcmaster.ca/">}}) at McMaster University. My current research investigates the reading development of English language learners who are enrolled in a pre-university academic [bridging program]({{< ref "https://meld.humanities.mcmaster.ca/" >}}). 
+
+I design and conduct longitudinal psycholinguistic experiments which involve the collection and analysis of eye movements during reading, cognitive-linguistic tests of language ability and measures of academic attainment.
+
+

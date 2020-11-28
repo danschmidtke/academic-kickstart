@@ -3,7 +3,7 @@ title = "Conceptual relations compete during auditory and visual compound word r
 date = "2018-05-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Schmidtke", "Christina L. Gagné", "Victor Kuperman", "Thomas L. Spalding", "Benjamin V. Tucker"]
+authors = ["Daniel Schmidtke, Christina L. Gagné, Victor Kuperman, Thomas L. Spalding, Benjamin V. Tucker"]
 
 # Publication type.
 # Legend:

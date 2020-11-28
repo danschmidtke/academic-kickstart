@@ -3,7 +3,7 @@ title = "Countability in world Englishes"
 date = "2013-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Christopher J. Hall", "Daniel Schmidtke", "Jamie Vickers"]
+authors = ["Christopher J. Hall, Daniel Schmidtke, Jamie Vickers"]
 
 # Publication type.
 # Legend:

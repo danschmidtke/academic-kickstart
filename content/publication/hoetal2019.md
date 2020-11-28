@@ -3,7 +3,7 @@ title = "Electrophysiological evidence for the integral nature of tone in Mandar
 date = "2019-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Amanda Ho", "Rober Boshra", "Daniel Schmidtke",  "Gaisha Oralova", "Anna L. Moro", "Elisabet Service", "John F Connolly"]
+authors = ["Amanda Ho, Rober Boshra, Daniel Schmidtke, Gaisha Oralova, Anna L. Moro, Elisabet Service, John F. Connolly"]
 
 # Publication type.
 # Legend:

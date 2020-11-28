@@ -3,7 +3,7 @@ title = "LADEC: The Large Database of English compounds"
 date = "2019-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Christina L. Gagné",  "Thomas L. Spalding",  "Daniel Schmidtke"]
+authors = ["Christina L. Gagné, Thomas L. Spalding, Daniel Schmidtke"]
 
 # Publication type.
 # Legend:

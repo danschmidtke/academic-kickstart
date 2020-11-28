@@ -3,7 +3,7 @@ title = "Language experience shapes relational knowledge of compound words"
 date = "2018-10-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Schmidtke", "Christina L. Gagné", "Victor Kuperman", "Thomas L. Spalding"]
+authors = ["Daniel Schmidtke, Christina L. Gagné, Victor Kuperman, Thomas L. Spalding"]
 
 # Publication type.
 # Legend:

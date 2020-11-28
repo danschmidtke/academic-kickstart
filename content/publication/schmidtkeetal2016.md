@@ -3,7 +3,7 @@ title = "Competition between conceptual relations affects compound recognition: 
 date = "2016-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Schmidtke", "Victor Kuperman", "Christina L. Gagné", "Thomas L. Spalding"]
+authors = ["Daniel Schmidtke, Victor Kuperman, Christina L. Gagné, Thomas L. Spalding"]
 
 # Publication type.
 # Legend:

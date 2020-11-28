@@ -16,7 +16,7 @@ weight = 92
 
 +++
 
-I am currently investigating factors that predict the development of reading proficiency in EFL students enrolled in a pre-university English language bridging program. This work is carried out with Dr. Anna Moro and uses eye-tracking technology, clinical assessments of language skills, and statistical modelling to gain insight into reading development. The results of this research is used to develop interventions aimed at developing language skills that are responsible for breakdowns in reading behavior.
+I am currently investigating factors that predict the development of reading proficiency in students who use English as a foreign language (EFL students) enrolled in a pre-university English language bridging program. This work is supervised by Dr. Anna Moro and uses eye-tracking technology, clinical assessments of language skills, and statistical modelling to gain insight into EFL reading development. The results of this research is used to develop pedagogical interventions that are aimed at enhancing the language skills that are responsible for breakdowns in reading behavior.
 
 ![Plot](/img/results_pic.png)
 

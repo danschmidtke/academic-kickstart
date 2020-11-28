@@ -3,7 +3,7 @@ title = "National character stereotypes mirror language use: A study of Canadian
 date = "2018-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Bryor Snefjella", "Daniel Schmidtke",  "Victor Kuperman"]
+authors = ["Bryor Snefjella, Daniel Schmidtke, Victor Kuperman"]
 
 # Publication type.
 # Legend:

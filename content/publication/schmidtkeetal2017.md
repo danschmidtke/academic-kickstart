@@ -3,7 +3,7 @@ title = "Surviving blind decomposition: A distributional analysis of the time-co
 date = "2017-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Schmidtke", "Kazunaga Matsuki", "Victor Kuperman"]
+authors = ["Daniel Schmidtke, Kazunaga Matsuki, Victor Kuperman"]
 
 # Publication type.
 # Legend:

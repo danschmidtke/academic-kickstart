@@ -3,7 +3,7 @@ title = "Mass counts in World Englishes: A corpus linguistic study of noun count
 date = "2017-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Schmidtke", "Victor Kuperman"]
+authors = ["Daniel Schmidtke, Victor Kuperman"]
 
 # Publication type.
 # Legend:
