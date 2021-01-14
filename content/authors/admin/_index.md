@@ -83,6 +83,6 @@ user_groups:
 
 I am a postdoctoral fellow in the [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)]({{< ref "https://arieal.mcmaster.ca/">}}) at McMaster University. My current research investigates the reading development of English language learners who are enrolled in a pre-university academic [bridging program]({{< ref "https://meld.humanities.mcmaster.ca/" >}}). 
 
-I design and conduct longitudinal psycholinguistic experiments which involve the collection and analysis of eye movements during reading, cognitive-linguistic tests of language ability and measures of academic attainment.
+I design and conduct longitudinal psycholinguistic experiments. This involves the collection and analysis of eye movements during reading, cognitive-linguistic tests of language ability, and measures of academic attainment.
 
 
