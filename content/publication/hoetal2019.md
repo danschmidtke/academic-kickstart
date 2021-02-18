@@ -17,7 +17,7 @@ authors = ["Amanda Ho, Rober Boshra, Daniel Schmidtke, Gaisha Oralova, Anna L. M
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Neuropsychologia*, 131(), 325-332"
+publication = "In *Neuropsychologia*, 13, 325-332"
 publication_short = "In *Neuropsychologia*"
 
 # Abstract and optional shortened version.

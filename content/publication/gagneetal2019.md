@@ -17,7 +17,7 @@ authors = ["Christina L. Gagné, Thomas L. Spalding, Daniel Schmidtke"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Behavior Research Methods*, 51, 2152-2179"
+publication = "In *Behavior Research Methods*, 51(5), 2152-2179"
 publication_short = "In *Behavior Research Methods*"
 
 # Abstract and optional shortened version.

@@ -17,7 +17,7 @@ authors = ["Christopher J. Hall, Daniel Schmidtke, Jamie Vickers"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *World Englishes*, (32)1, 1-22."
+publication = "In *World Englishes*, 32(1), 1-22."
 publication_short = "In *World Englishes*"
 
 # Abstract and optional shortened version.

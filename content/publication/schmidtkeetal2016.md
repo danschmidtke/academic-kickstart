@@ -17,7 +17,7 @@ authors = ["Daniel Schmidtke, Victor Kuperman, Christina L. Gagné, Thomas L. Sp
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Psychonomic Bulletin & Review*, (23)2, 556-570."
+publication = "In *Psychonomic Bulletin & Review*, 23(2), 556-570."
 publication_short = "In *Psychonomic Bulletin & Review*"
 
 # Abstract and optional shortened version.

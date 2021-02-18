@@ -17,7 +17,7 @@ authors = ["Daniel Schmidtke, Victor Kuperman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Cortex*, 116(), 250-267"
+publication = "In *Cortex*, 116, 250-267"
 publication_short = "In *Cortex*"
 
 # Abstract and optional shortened version.

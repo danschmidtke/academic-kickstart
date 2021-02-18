@@ -1,6 +1,6 @@
 +++
 title = "CompLex: An eye-movement database of compound word reading in English"
-date = "2020-06-01"
+date = "2021-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Schmidtke, Julie A. Van Dyke, Victor Kuperman"]
@@ -17,7 +17,7 @@ authors = ["Daniel Schmidtke, Julie A. Van Dyke, Victor Kuperman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Behavior Research Methods*"
+publication = "In *Behavior Research Methods*, 53(1), 59-77"
 publication_short = "In *Behavior Research Methods*"
 
 # Abstract and optional shortened version.

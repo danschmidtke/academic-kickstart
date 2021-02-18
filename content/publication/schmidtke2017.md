@@ -17,7 +17,7 @@ authors = ["Daniel Schmidtke, Victor Kuperman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Corpus Linguistics and Linguistic Theory*, (13)1, 135-164."
+publication = "In *Corpus Linguistics and Linguistic Theory*, 13(1), 135-164."
 publication_short = "In *Corpus Linguistics and Linguistic Theory*"
 
 # Abstract and optional shortened version.
