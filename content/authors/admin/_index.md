@@ -31,8 +31,8 @@ interests:
 - Quantitative/corpus linguistics
 - Psycholinguistics
 - Individual differences
-- Quantitative linguistics
 - Morphology
+- Open science
 
 education:
   courses:
@@ -83,7 +83,5 @@ user_groups:
 ---
 
 I am a postdoctoral fellow in the [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)]({{< ref "https://arieal.mcmaster.ca/">}}) at McMaster University. My current research investigates the reading development of English language learners who are enrolled in a pre-university academic [bridging program]({{< ref "https://meld.humanities.mcmaster.ca/" >}}). You can find out more about my research projects below.
-
-#I design and conduct longitudinal psycholinguistic experiments. This involves the collection and analysis of eye movements during reading, cognitive-linguistic tests of language ability, and measures of academic attainment.
 
 
