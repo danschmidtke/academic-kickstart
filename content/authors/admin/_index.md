@@ -26,11 +26,8 @@ organizations:
 bio: My research interests include psycholinguistics, corpus linguistics and linguistic theory.
 
 interests:
-- Eye-movements during reading
 - Reading development
 - Quantitative/corpus linguistics
-- Psycholinguistics
-- Individual differences
 - Morphology
 - Open science
 
