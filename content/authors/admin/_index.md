@@ -26,9 +26,10 @@ organizations:
 bio: My research interests include psycholinguistics, corpus linguistics and linguistic theory.
 
 interests:
-- Psycholinguistics
 - Eye-movements during reading
-- Reading acquisition
+- Reading development
+- Quantitative/corpus linguistics
+- Psycholinguistics
 - Individual differences
 - Quantitative linguistics
 - Morphology
@@ -62,8 +63,8 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-6518-9778
-- icon: database
-  icon_pack: fas
+- icon: osf
+  icon_pack: ai
   link: https://osf.io/fbhjx
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -81,8 +82,8 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral fellow in the [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)]({{< ref "https://arieal.mcmaster.ca/">}}) at McMaster University. My current research investigates the reading development of English language learners who are enrolled in a pre-university academic [bridging program]({{< ref "https://meld.humanities.mcmaster.ca/" >}}). 
+I am a postdoctoral fellow in the [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)]({{< ref "https://arieal.mcmaster.ca/">}}) at McMaster University. My current research investigates the reading development of English language learners who are enrolled in a pre-university academic [bridging program]({{< ref "https://meld.humanities.mcmaster.ca/" >}}). You can find out more about my research projects below.
 
-I design and conduct longitudinal psycholinguistic experiments. This involves the collection and analysis of eye movements during reading, cognitive-linguistic tests of language ability, and measures of academic attainment.
+#I design and conduct longitudinal psycholinguistic experiments. This involves the collection and analysis of eye movements during reading, cognitive-linguistic tests of language ability, and measures of academic attainment.
 
 
