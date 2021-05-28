@@ -12,12 +12,12 @@ title = "Media"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 100
+weight = 50
 
 +++
 
 
-An article about my current work at <a href="https://brighterworld.mcmaster.ca/articles/melding-esl-instruction-with-cutting-edge-research/" target="_blank">the MELD program at McMaster Univeristy</a><br><br>
+An article about my current work at <a href="https://brighterworld.mcmaster.ca/articles/melding-esl-instruction-with-cutting-edge-research/" target="_blank">the MELD program at McMaster University</a><br><br>
 A selection of news articles related to our <a href="https://journals.plos.org/plosone/article/file?type=printable&id=10.1371/journal.pone.0206188" target="_blank">Twitter study</a>:
     <ul type="circle">
     <li> The New York Times: <a href="https://www.nytimes.com/2019/02/06/opinion/canada-trudeau-saudi-arabia.html" target="_blank">Thank God for Canada! Our boring neighbor is a moral leader of the free world</a> </li>
