@@ -4,9 +4,9 @@
 headless = true
 widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 25  # Order that this section will appear.
 
-title = "Selected publications"
+title = "Recent publications"
 subtitle = ""
 
 [content]

@@ -82,6 +82,8 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral fellow in the [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)]({{< ref "https://arieal.mcmaster.ca/">}}) at McMaster University. My current research investigates the reading development of English language learners who are enrolled in an academic [bridging program]({{< ref "https://meld.humanities.mcmaster.ca/" >}}). You can find out more about my research projects below.
+Hi! Welcome to my personal site. I am a postdoctoral fellow in the [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)]({{< ref "https://arieal.mcmaster.ca/">}}) at McMaster University in Ontario, Canada. 
+
+My research investigates the language development of English language learners who are enrolled in an [academic bridging program]({{< ref "https://meld.humanities.mcmaster.ca/" >}}), and you can find my latest work below.
 
 

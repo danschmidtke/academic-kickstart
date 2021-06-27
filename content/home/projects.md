@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 headless = true
 widget = "custom"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
@@ -22,4 +22,4 @@ I am currently investigating factors that predict the development of reading pro
 
 <br>
 
-[An older project on Bob Dylan's lyrics here ]({{< ref "/post/_index.md" >}})
+[An older project on Bob Dylan's lyrics is available here ]({{< ref "/post/_index.md" >}})

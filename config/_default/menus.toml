@@ -20,13 +20,18 @@
 
 [[main]]
   name = "Current Projects"
-  url = "#projects"
+  url = "#currentprojects"
   weight = 30
 
 [[main]]
   name = "Teaching"
   url = "#teaching"
   weight = 40
+
+[[main]]
+  name = "Collaborators"
+  url = "#collaborators"
+  weight = 43
 
 [[main]]
   name = "Skills"
