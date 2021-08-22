@@ -29,15 +29,14 @@
   weight = 40
 
 [[main]]
-  name = "Collaborators"
-  url = "#collaborators"
-  weight = 43
+name = "Skills"
+url = "#skills"
+weight = 43
 
 [[main]]
-  name = "Skills"
-  url = "#skills"
+  name = "Collaborators"
+  url = "#collaborators"
   weight = 45
-
 
 [[main]]
   name = "Media"
