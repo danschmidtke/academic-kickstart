@@ -15,6 +15,7 @@ role: Postdoctoral fellow
 # Organizations/Affiliations
 organizations:
 - name: McMaster University
+  url: https://www.mcmaster.ca/
 
 #- name: The Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)
 #  url: "https://arieal.mcmaster.ca/"
