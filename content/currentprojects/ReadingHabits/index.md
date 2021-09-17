@@ -6,7 +6,7 @@ image:
   focal_point: 
 links:
 slides: 
-summary: "What can the readiing habits of EFL students tell us about their reading development? This project tracked the reading activity of 150 bridging program students over 26 weeks in order to gain insight into their reading development."
+summary: "What can the reading habits of EFL students tell us about their reading development? This project tracked the reading activity of 150 bridging program students over 26 weeks in order to gain insight into their reading development."
 tags:
 - reading experience
 - print experience
