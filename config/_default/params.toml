@@ -90,10 +90,10 @@ address = {street = "1280 Main St. W", city = "Hamilton", region = "CA", postcod
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "43.2619296", longitude = "-79.91665"}
+coordinates = {latitude = "", longitude = ""}
 
 # Directions for visitors to locate you.
-directions = "L.R. Wilson Hall, MELD Office 4042"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
@@ -107,7 +107,7 @@ appointment_url = ""
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "@danschmidtke", link = "https://twitter.com/danschmidtke"},
+  #{icon = "twitter", icon_pack = "fab", name = "@danschmidtke", link = "https://twitter.com/danschmidtke"},
   #{icon = "skype", icon_pack = "fab", name = "dan.schmidtke", link = "skype:echo123?call"},
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -122,7 +122,7 @@ contact_links = [
 sharing_image = "me1"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "danschmidtke"
+twitter = ""
 
 ############################
 ## Regional Settings
