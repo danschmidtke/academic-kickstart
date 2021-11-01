@@ -1,6 +1,6 @@
 +++
 title = "Determinants of Word-Reading Development in English Learner University Students: A Longitudinal Eye Movement Study"
-date = "2020-11-28"
+date = "2021-10-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Schmidtke, Anna L. Moro"]
@@ -17,7 +17,7 @@ authors = ["Daniel Schmidtke, Anna L. Moro"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Reading Research Quarterly*, Online first"
+publication = "In *Reading Research Quarterly*, 56(4) 819-854"
 publication_short = "In *Reading Research Quarterly*"
 
 # Abstract and optional shortened version.
