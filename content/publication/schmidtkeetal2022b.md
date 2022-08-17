@@ -17,8 +17,8 @@ authors = ["Daniel Schmidtke, Sadaf Rahmanian, Anna L. Moro"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Bilingualism: Language \& Cognition*, Online first"
-publication_short = "In *Bilingualism: Language \& Cognition*"
+publication = "In *Bilingualism: Language & Cognition*, Online first"
+publication_short = "In *Bilingualism: Language & Cognition*"
 
 # Abstract and optional shortened version.
 abstract = "Increasing numbers of international students enter university education via English language bridging programs. Much research has overlooked the nature of second language reading development during a bridging program, focusing instead on the development of literacy skills of international students who already meet the language requirement for undergraduate admission. We report a longitudinal eye-movement study assessing English passage reading efficiency and comprehension in 405 Chinese-speaking bridging program students. Incoming IELTS reading scores were used as an index of baseline reading ability. Linear mixed-effects regression models fitted to global eye-movement measures and reading comprehension indicated that despite initial between-subjects differences, within-subject change at each ability level progressed at the same rate, following parallel growth trajectories. Therefore, there was significant overall reading progress during the bridging program, but no evidence that the gap between low and high ability readers either closed or widened over time."
