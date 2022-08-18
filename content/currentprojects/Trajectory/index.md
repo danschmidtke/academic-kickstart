@@ -4,7 +4,7 @@ external_link:
 image:
   caption: 
   focal_point: 
-summary: "Does your incoming reading skill give you a developmental advantage in an academic English bridging program? This longitudinal eye-movement study of over 400 EFL students showed that if you enter a bridging program with stronger English reading proficiency, you may have a head start in your reading fluency and reading comprehension. However, **students of all incoming reading ability levels** develop reading fluency and comprehension **at the same rate**  This project was published in [Bilingualism: Language & Cognition](https://doi.org/10.1017/S1366728922000542)."
+summary: "Does your incoming reading skill give you a developmental advantage in an academic English bridging program? This longitudinal eye-movement study of over 400 EFL students showed that if you enter a bridging program with stronger English reading proficiency, you may have a head start in your reading fluency and reading comprehension. However, **students of all incoming reading ability levels** develop reading fluency and comprehension **at the same rate**. This project was published in [Bilingualism: Language & Cognition](https://doi.org/10.1017/S1366728922000542)."
 tags:
 - IELTS
 - reading development
