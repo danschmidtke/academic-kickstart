@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 
-googleAnalytics = "G-XEQJYWW2FJ"
+# googleAnalytics = "G-XEQJYWW2FJ"
 
 # Title of your site
 title = "Daniel Schmidtke"
