@@ -55,7 +55,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:schmiddf@mcmaster.ca".
 - icon: cv
   icon_pack: ai
-  link: files/Dan-CV-Academic.pdf
+  link: files/DanielSchmidtke-CV.pdf
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=Fd5lGDkAAAAJ&hl=en
