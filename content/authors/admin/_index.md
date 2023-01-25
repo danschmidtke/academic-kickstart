@@ -28,8 +28,9 @@ bio: My research interests include psycholinguistics, corpus linguistics and lin
 
 interests:
 - Reading development
-- Quantitative/corpus linguistics
-- Morphology
+- Psycholinguistics
+- Quantitative linguistics
+- Second language reading
 - Reproducible science
 
 education:
@@ -83,6 +84,6 @@ user_groups:
 - Visitors
 ---
 
-Hey! Welcome to my personal site. I am a Research Associate (Academic) in the [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)]({{< ref "https://arieal.mcmaster.ca">}}) at McMaster University in Ontario, Canada. 
+Hi! Welcome to my personal site. I am a Research Associate (Academic) in the [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)](https://arieal.mcmaster.ca/) at McMaster University in Ontario, Canada. 
 
-My research investigates the language development of English language learners who are enrolled in an [academic bridging program]({{< ref "https://meld.humanities.mcmaster.ca" >}}). You can find my latest published work [below.]({{< ref "https://www.danschmidtke.com/#publications" >}})
+My research investigates language and reading development of English language learners in higher education. You can find my latest published work [below]({{<ref"https://www.danschmidtke.com/#publications">}}).
