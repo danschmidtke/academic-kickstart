@@ -84,6 +84,4 @@ user_groups:
 - Visitors
 ---
 
-Hi! Welcome to my personal site. I am a Research Associate (Academic) in the [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)](https://arieal.mcmaster.ca/) at McMaster University in Ontario, Canada. 
-
-My research investigates language and reading development of English language learners in higher education. You can find my latest published work [below]({{<ref"https://www.danschmidtke.com/#publications">}}).
+I am a Research Associate (Academic) in the [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)](https://arieal.mcmaster.ca/) at McMaster University. A psycholinguist by training, I am interested in the language and reading development of English language learners in higher education. You can find my latest published work [below]({{<ref"https://www.danschmidtke.com/#publications">}}). 
