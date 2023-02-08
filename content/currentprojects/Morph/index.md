@@ -4,7 +4,7 @@ external_link:
 image:
   caption: 
   focal_point: 
-summary: "Many words in English are morphologically complex (*assign*-*ment*, *teach*-*er*) and so being able to proficiently apply the correct endings (suffixes) to complex words is an important skill to acquire. In this project we analyzed the written production of English language learners and asked *What are the statistical properties that make morphologically complex words easier for EFL students to learn?*  This project was published in [Applied Psycholinguistics](https://doi.org/10.1017/S0142716422000182)."
+summary: "Many words in English are morphologically complex (*assign*-*ment*, *teach*-*er*) and so being able to proficiently apply the correct endings (suffixes) to complex words is an important skill to acquire. In this project, we analyzed the written production of English language learners and asked *What are the statistical properties that make morphologically complex words easier for EFL students to learn?*  This project was published in [Applied Psycholinguistics](https://doi.org/10.1017/S0142716422000182)."
 tags:
 - morphology
 - vocabulary knowledge

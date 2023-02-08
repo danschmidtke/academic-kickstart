@@ -6,7 +6,7 @@ image:
   focal_point: 
 links:
 slides: 
-summary: "Using machine learning to investigate factors that predict EFL reading development. This project was published in [Reading Research Quarterly](https://ila.onlinelibrary.wiley.com/doi/epdf/10.1002/rrq.362/)."
+summary: "In this study we used machine learning to investigate factors that predict EFL reading development. This project was published in [Reading Research Quarterly](https://ila.onlinelibrary.wiley.com/doi/epdf/10.1002/rrq.362/)."
 tags:
 - eye-tracking
 - individual differences
