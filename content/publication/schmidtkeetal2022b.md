@@ -1,6 +1,6 @@
 +++
 title = "Tracking reading development in an English language university-level bridging program: evidence from eye-movements during passage reading"
-date = "2022-08-15"
+date = "2023-03-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Schmidtke, Sadaf Rahmanian, Anna L. Moro"]
@@ -17,7 +17,7 @@ authors = ["Daniel Schmidtke, Sadaf Rahmanian, Anna L. Moro"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Bilingualism: Language & Cognition*, Online first"
+publication = "In *Bilingualism: Language & Cognition*, 26(2) 356-370"
 publication_short = "In *Bilingualism: Language & Cognition*"
 
 # Abstract and optional shortened version.
