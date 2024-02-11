@@ -1,12 +1,12 @@
 ---
-date: "2021-06-20"
+date: "2024-02-11"
 external_link: ""
 image:
   caption: 
   focal_point: 
 links:
 slides: 
-summary: "What can the reading habits of EFL students tell us about their reading development? This project tracked the reading activity of 150 bridging program students over 26 weeks in order to gain insight into their reading development."
+summary: "What can the reading habits of EFL students tell us about their reading development? This project tracked the reading activity of 150 bridging program students over 26 weeks in order to gain insight into their reading development. The published article can be found in [Frontiers in Education: Educational Psychology](https://www.frontiersin.org/articles/10.3389/feduc.2024.1286132/full). "
 tags:
 - reading experience
 - print experience
