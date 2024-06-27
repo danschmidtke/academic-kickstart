@@ -52,7 +52,7 @@ subtitle = ""
 
 My primary research interest is in reading development and experimental psycholinguistics. I use a variety of tools, including eye-tracking and quantitative linguistic methods, to delve into how linguistic, cognitive, and experiential factors influence reading behavior. 
 
-My current research focus is on individual differences in the development of reading skill among international students who use English as an additional language. This SSHRC-funded research entitled <strong>Beyond bridging: linguistic indicators of academic and literacy outcomes of international students in a Canadian university</strong> examines longitudinal change in reading skills among international students enrolled in pre-sessional English for academic purposes (EAP) programs. 
+My current research focus is on individual differences in the development of reading skill among international students who use English as an additional language. This SSHRC-funded research project examines longitudinal change in reading skills among international students enrolled in McMaster University's pre-sessional English for academic purposes (EAP) programs. 
 
 As Mohawk College's College Student Success Innovation Centre (CSSIC) Research Fellow I am investigating literacy development among international students enrolled in Mohawk College’s EAP program. This research project will involve implementing and testing a targeted reading intervention which is aimed at enriching the academic English skills of international students at Mohawk College. You can read more about CSSIC and this project [here](https://www.mohawkcollege.ca/college-student-success-innovation-centre/cssic-research-fellow).
 
