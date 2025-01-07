@@ -85,4 +85,5 @@ user_groups:
 - Visitors
 ---
 
-I work as a Research Associate for the [McMaster English Language Development (MELD) program](https://meld.humanities.mcmaster.ca/), affiliated researcher in McMaster Unviersity's [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)](https://arieal.mcmaster.ca/), and Research Fellow at [Mohawk College's College Student Success Innovation Centre (CSSIC)](https://www.mohawkcollege.ca/college-student-success-innovation-centre). My research focuses on the language and reading development of English language learners in higher education. You can find my latest published work [below]({{<ref"https://www.danschmidtke.com/#publications">}}).
+I am a Research Associate for the [McMaster English Language Development (MELD) program](https://meld.humanities.mcmaster.ca/), an affiliated researcher with McMaster University's [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)](https://arieal.mcmaster.ca/), and a Research Fellow at the [College Student Success Innovation Centre (CSSIC)](https://www.mohawkcollege.ca/college-student-success-innovation-centre) in Mohawk College, Hamilton, Ontario. My research focuses on the language and reading development of English language learners in higher education. Below, you can find my latest published work.
+
