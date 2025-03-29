@@ -19,7 +19,7 @@ weight = 40
 I have taught the following courses at McMaster University:
 
 ### Laboratory in Experimental Linguistics
-(2023, 2025). In this course students collaborate to plan, carrying out, analyze and report an experiment that addresses a cognitive aspect of language processing.
+(2023, 2025). In this course students collaborate to plan, carrying out, analyze, and report an experiment that addresses a cognitive aspect of language processing.
 
 
 ### Statistics for Language Research 
