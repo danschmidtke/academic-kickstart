@@ -85,5 +85,5 @@ user_groups:
 - Visitors
 ---
 
-I'm a psycholinguistic researcher focusing on the reading development among second language learners. I am a Research Associate for the [McMaster English Language Development (MELD) program](https://meld.humanities.mcmaster.ca/), an affiliated researcher with McMaster University's [Centre for Advanced Research in Experimental and Applied Linguistics (ARiEAL)](https://arieal.mcmaster.ca/), and a Research Fellow at the [College Student Success Innovation Centre (CSSIC)](https://www.mohawkcollege.ca/college-student-success-innovation-centre) in Hamilton, Ontario. Below, you can find my latest published work.
+I am a psycholinguist with a focus on researching second language reading development. I am a Research Associate at the [McMaster English Language Development (MELD) program](https://meld.humanities.mcmaster.ca/), and a Research Fellow at the [College Student Success Innovation Centre (CSSIC)](https://www.mohawkcollege.ca/college-student-success-innovation-centre) in Hamilton, Ontario. Below, you can find my latest published work.
 
