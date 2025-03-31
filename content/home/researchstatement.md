@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-My primary research interest is in reading development and experimental psycholinguistics. I use a variety of tools, including eye-tracking and quantitative linguistic methods, to delve into how linguistic, cognitive, and experiential factors influence reading behavior. 
+My primary research interest is in reading development. I use a variety of tools, including eye-tracking and quantitative linguistic methods, to delve into how linguistic, cognitive, and experiential factors influence reading behavior. 
 
 My current research focus is on individual differences in the development of reading skill among international students who use English as an additional language. This SSHRC-funded research project examines longitudinal change in reading skills among international students enrolled in McMaster University's pre-sessional English for academic purposes (EAP) programs. 
 
