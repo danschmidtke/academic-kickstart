@@ -85,5 +85,6 @@ user_groups:
 - Visitors
 ---
 
-I am a psycholinguist specializing in second language reading development. I am a Research Associate at the [McMaster English Language Development (MELD) program](https://meld.humanities.mcmaster.ca/), and a Research Fellow at the [College Student Success Innovation Centre (CSSIC)](https://www.mohawkcollege.ca/college-student-success-innovation-centre) in Ontario, Canada. Below, you can find my latest published work.
+I’m a psycholinguist specializing in second language reading development. I work as a Research Associate with the [MELD program](https://meld.humanities.mcmaster.ca/) at McMaster University, and as a Research Fellow at the [College Student Success Innovation Centre (CSSIC)](https://www.mohawkcollege.ca/college-student-success-innovation-centre), a partnership between McMaster University and Mohawk College in Ontario, Canada.
 
+You can find my published work below - projects I’ve been lucky to work on with an incredible group of researchers, mentors, and colleagues over the years.
