@@ -1,6 +1,6 @@
 +++
 title = "Bridging to academic success: the impact of reading gains in an English bridging program on GPAs"
-date = "2024-02-01"
+date = "2025-01-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Daniel Schmidtke, Seina Yamada, Anna L. Moro"]
@@ -17,7 +17,7 @@ authors = ["Daniel Schmidtke, Seina Yamada, Anna L. Moro"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Reading and Writing*, Online first"
+publication = "In *Reading and Writing*, 38 195-854"
 publication_short = "In *Reading and Writing*"
 
 # Abstract and optional shortened version.
