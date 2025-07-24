@@ -85,6 +85,6 @@ user_groups:
 - Visitors
 ---
 
-I’m a psycholinguist specializing in second language reading development. I work as a Research Associate with the [MELD program](https://meld.humanities.mcmaster.ca/) at McMaster University, and as a Research Fellow at the [College Student Success Innovation Centre (CSSIC)](https://www.mohawkcollege.ca/college-student-success-innovation-centre), a partnership between McMaster University and Mohawk College in Ontario, Canada.
+I’m a psycholinguist specializing in second language reading development. I work as a Research Associate with the [MELD program](https://meld.humanities.mcmaster.ca/) at McMaster University, and as a Research Fellow at the [College Student Success Innovation Centre (CSSIC)](https://www.danschmidtke.com/files/Mohawk_CSSIC_Project_Info.pdf), a partnership between McMaster University and Mohawk College in Ontario, Canada.
 
 You can find my published work below - projects I’ve been lucky to work on with an incredible group of researchers, mentors, and colleagues over the years.
