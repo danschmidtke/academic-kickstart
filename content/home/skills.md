@@ -36,6 +36,6 @@ subtitle = ""
   icon = "code"
   icon_pack = "fas"
   name = "Behavioral research"
-  description = "Programming: EyeLink, Psychopy, Java, DMDX; Platforms: Pavlovia, Inquisit, GitLab, Amazon Turk, DMDX"
+  description = "Programming: EyeLink, PsychoPy, Java, DMDX; Platforms: Pavlovia, Inquisit, GitLab, Amazon Turk, DMDX"
 
 +++
