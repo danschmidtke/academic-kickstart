@@ -19,10 +19,10 @@ weight = 40
 I have taught the following courses at McMaster University:
 
 ### Laboratory in Experimental Linguistics
-(2023, 2025). In this course students collaborate to plan, carrying out, analyze, and report an experiment that addresses a cognitive aspect of language processing.
+(2023, 2025, 2026). In this course students collaborate to plan, carrying out, analyze, and report an experiment that addresses a cognitive aspect of language processing.
 
 ### Statistics for Language Research 
-(2017, 2019, 2020, 2021, 2022). An introductory course to statistical methods custom-tailored to the needs of language researchers. This course provides an introduction to <a href="https://www.r-project.org/" target="_blank">R</a>, a free software environment for statistical computing and graphics.
+(2017, 2019, 2020, 2021, 2022, 2026). An introductory course to statistical methods custom-tailored to the needs of language researchers. This course provides an introduction to <a href="https://www.r-project.org/" target="_blank">R</a>, a free software environment for statistical computing and graphics.
 
 ### Computers and Linguistic Analysis
 (2018, 2020, 2021, 2024, 2025). This course studies computational tools and techniques of language processing using large electronic collections of texts. Students are trained in basic text-processing, statistical and programming skills using <a href="https://www.r-project.org/" target="_blank">R</a>.
