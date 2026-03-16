@@ -28,6 +28,6 @@ Bridging programs aim to help students become ready for university-level reading
 - The key result: we found **stable change**. Students who started stronger stayed stronger, and students who started weaker improved too—but at roughly the **same rate** (parallel growth trajectories), so the gap **didn’t close or widen** over the program. 
 
 ### Why it matters
-This tells us two things at once: (1) bridging programs can produce meaningful reading gains, and (2) **equal slopes don’t automatically mean equal outcomes**—students who start behind may need **extra, targeted support early** if the goal is to narrow the gap by the end of the program.
+This tells us two things at once: (1) bridging programs can produce meaningful reading gains, and (2) **equal slopes don’t automatically mean equal outcomes**—students who start behind may need **extra, targeted support early** if the goal is to narrow the gap by the end of the bridging program.
 
 <br><br>
