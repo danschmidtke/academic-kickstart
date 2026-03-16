@@ -4,7 +4,7 @@ external_link:
 image:
   caption: "DerLex: a large eye-tracking database of derived (suffix) word reading in English."
   focal_point:
-summary: "DerLex is a large open database of eye-tracking data on **English derived words** (e.g., *teacher, permission*). It’s designed as a **companion to CompLex**—our earlier eye-tracking megastudy of **English compound words** (e.g., *goalpost*)—so researchers can study two major types of morphological complexity using comparable methods and compatible data structures."
+summary: "DerLex is a large open database of eye-tracking data on **English derived words** (e.g., *teacher, permission*). It’s designed as a **companion to CompLex**—our earlier eye-tracking megastudy of **English compound words** (e.g., *goalpost*)—so researchers can study two major types of morphological complexity using comparable methods and compatible data structures. This project was published in [Behavioral Research Methods](https://link.springer.com/article/10.3758/s13428-024-02565-3)."
 tags:
 - eye-tracking
 - morphology
