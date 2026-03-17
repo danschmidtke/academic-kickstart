@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Recent Projects"
-subtitle = "These projects are currently under peer review or have recently been published."
+subtitle = "Here are some projects that have recently been published."
 
 [content]
   # Page type to display. E.g. project.
