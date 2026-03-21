@@ -19,7 +19,7 @@ title: "Reading development over 4 years: eye-tracking from EAP to undergrad"
 Reading development doesn’t stop when an English bridging program ends. We tracked the same students from the start of EAP (t1) to the end of EAP (t2) and again in the final year of undergrad (t3) to see how reading fluency and reading behavior evolve over time—using eye movements as a real-time window into reading.
 
 ### What we did
-- Followed one cohort across three timepoints spanning ~4 years (t1, start of EAP program → t2, end of EAP program → t3, final-year of undergrad).
+- Followed three cohorts across three timepoints spanning ~4 years (t1, start of EAP program → t2, end of EAP program → t3, final-year of undergrad).
 - Measured reading-related skills and eye-movement indicators of reading efficiency (including word skipping, shown in the plot).
 
 ### What we found
