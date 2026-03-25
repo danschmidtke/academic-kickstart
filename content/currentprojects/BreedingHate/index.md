@@ -28,6 +28,6 @@ Intergroup bias isn’t only what people *think* — it’s also what people *sa
 - In the diffusion chains, **in-group positivity tended to grow across generations**, and it propagated **faster** than out-group derogation.
 
 ### Why it matters
-A small bias in word choice can become a big deal when it spreads socially. This study suggests that language doesn’t just *reflect* bias—it can also help **transmit and amplify it** over time, especially via “warm glow” toward the in-group rather than outright hostility toward the out-group.
+A small bias in word choice can become a big deal when it spreads socially. This study suggests that language doesn’t just *reflect* bias—it can also help **transmit and amplify it** over time, especially via a “warm glow” toward the in-group rather than outright hostility toward the out-group.
 
 <br><br>
