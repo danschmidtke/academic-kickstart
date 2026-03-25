@@ -15,7 +15,7 @@ title: "How “In-Group Positivity” Spreads: Language, Bias, and Cultural Tran
 ---
 
 ### The big idea
-Intergroup bias isn’t only what people *think*—it’s also what people *say*. We tested whether language becomes more positive when people describe an in-group (“us”) than an out-group (“them”), and whether those tiny language shifts can **accumulate as they get passed from person to person**.
+Intergroup bias isn’t only what people *think* — it’s also what people *say*. We tested whether language becomes more positive when people describe an in-group (“us”) than an out-group (“them”), and whether those tiny language shifts can **accumulate as they get passed from person to person**.
 
 ### What we did
 - Ran two online experiments to compare the positivity of words used to describe **in-groups vs. out-groups**, across a wide range of “seed” descriptions (from negative to positive).
